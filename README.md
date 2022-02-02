@@ -19,3 +19,10 @@ An architecture decision record (ADR) is a document that captures an important a
 - [Documenting Architecture Decissions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions) - article by Michael Nygard, probably first one coining the idea and most popular format
 - [Architecture Decision Records](https://adr.github.io/) - homepage of [Github adr organization](https://github.com/adr) formed to motivate ADR use and build tooling around ADRs
 
+## Architecture
+
+### Modular Monolith
+
+Modular Monolith architecture is a monolithic system (deployed as single unit) designed in a modular way (lowly coupled independent modules).
+
+- [Modular Monolith Primer](http://www.kamilgrzybek.com/design/modular-monolith-primer/) - a collection of 5 articles describing reasoning behind modular monolith architecture, when it makes sense and approaches for its implementation with integration styles and domain-centric design
