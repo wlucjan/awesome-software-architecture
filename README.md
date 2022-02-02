@@ -16,11 +16,15 @@ C4 Model allows you to build a map of the architecture with various level of zoo
 
 An architecture decision record (ADR) is a document that captures an important architecture decision made along with its context and consequences.
 
+#### Read
 - [Documenting Architecture Decissions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions) - article by Michael Nygard, probably first one coining the idea and most popular format
 - [ADR github repository from Joel Parker Henderson](https://github.com/joelparkerhenderson/architecture-decision-record) - an indepth collection of thoughts on how to use ADRs and when to use them, plus contains selection of templates and examples of ADRs
 - [Architecture Decision Records](https://adr.github.io/) - homepage of [Github adr organization](https://github.com/adr) formed to motivate ADR use and build tooling around ADRs
 - [ADR at Spotify](https://engineering.atspotify.com/2020/04/14/when-should-i-write-an-architecture-decision-record/) - article on ADRs as adopted at Spotify with good sections on why should you do ADRs and heuristics for when to write one
+
+#### Watch
 - [Communicating and documenting architectural decisions](https://www.youtube.com/watch?v=rwfXkSjFhzc) - witty talk by David Ayers on wha would you use ADRs and how to socialize decisions in the team; also what to do about overarching architectural decisions
+- [Software Architecture Monday Lesson 55](https://www.youtube.com/watch?v=LMBqGPLvonU) - a short, 10 minute introduction to ADRs with a concrete example of an ADR
 ## Architecture
 
 ### Modular Monolith
